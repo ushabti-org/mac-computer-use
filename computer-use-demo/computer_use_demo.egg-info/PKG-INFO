@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: computer-use-demo
+Version: 0.0.1
+License-File: LICENSE
+Requires-Dist: anthropic
+Requires-Dist: pillow
+Requires-Dist: pyautogui
+Dynamic: requires-dist
